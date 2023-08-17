@@ -1,0 +1,3 @@
+# B_C_Python
+##Projeto-Sistema de banco
+Devido a perca de Hd devido a outros projetos mas ...
