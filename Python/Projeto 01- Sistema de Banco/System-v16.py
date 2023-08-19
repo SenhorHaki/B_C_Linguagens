@@ -38,7 +38,6 @@ class ContaBancaria:
         print(f"\n Saldo : R$ {self.saldo:.2f}")
         print(" ===================================")
 
-
 def main():
     conta = ContaBancaria()
 
@@ -71,7 +70,3 @@ def main():
             break
         else:
             print("Opção inválida")
-
-
-if __name__ == "__main__":
-    main()
